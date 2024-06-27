@@ -1,12 +1,14 @@
 ## Calories Advisor
-![Chat_with_PDFs](https://socialify.git.ci/p2kalita/Chat_with_PDFs/image?font=Inter&forks=1&issues=1&language=1&name=1&owner=1&pattern=Floating%20Cogs&pulls=1&stargazers=1&theme=Light)
+
+![Calories_Advisor](https://socialify.git.ci/p2kalita/Calories_Advisor/image?forks=1&language=1&name=1&owner=1&pattern=Brick%20Wall&stargazers=1&theme=Light)
+
 # How to run?
 ### STEPS:
 
 Clone the repository
 
 ```bash
-Project repo: https://github.com/
+Project repo: https://github.com/p2kalita/Calories_Advisor/
 ```
 
 ### STEP 01- Create a conda environment after opening the repository
