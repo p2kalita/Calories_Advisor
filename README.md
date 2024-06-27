@@ -55,7 +55,6 @@ open up localhost:
 ### Techstack Used:
 
 - Python
-- LangChain
 - Gemini
 - Streamlit
 
