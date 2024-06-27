@@ -48,8 +48,8 @@ open up localhost:
 ```
 
 
-![alt text](https://github.com/p2kalita/Chat_with_PDFs/blob/main/Capture.JPG)
-
+![alt text]([https://github.com/p2kalita/Chat_with_PDFs/blob/main/Capture.JPG])
+![alt text]([https://github.com/p2kalita/Calories_Advisor/blob/main/Capture1.JPG])
 
 
 ### Techstack Used:
